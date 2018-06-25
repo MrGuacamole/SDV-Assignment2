@@ -1,0 +1,126 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrumentShopWinForm", "SDV Assignment2\InstrumentShopWinForm.csproj", "{2082D9E6-F5C3-4449-9DF1-250003367101}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InstrumentShop", "InstrumentShop", "{6EE47315-07EF-424F-8F95-E3244D2A2913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrumentShopSelfHost", "InstrumentShopSelfHost\InstrumentShopSelfHost.csproj", "{FFF1241E-F882-4780-80F7-C83377FE7AE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Version1_C", "Version1_C", "{00766ECD-3859-4430-8599-9078B766BAFD}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\clsArtistList.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\clsArtistList.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\clsDateComparer.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\clsDateComparer.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\clsNameComparer.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\clsNameComparer.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\clsPainting.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\clsPainting.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\clsPhotograph.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\clsPhotograph.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\clsSculpture.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\clsSculpture.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\clsWork.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\clsWork.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\clsWorksList.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\clsWorksList.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmArtist.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmArtist.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmArtist.designer.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmArtist.designer.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmArtist.resx = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmArtist.resx
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmMain.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmMain.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmMain.designer.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmMain.designer.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmMain.resx = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmMain.resx
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPainting.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPainting.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPainting.designer.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPainting.designer.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPainting.resx = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPainting.resx
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPhotograph.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPhotograph.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPhotograph.designer.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPhotograph.designer.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPhotograph.resx = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmPhotograph.resx
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmSculpture.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmSculpture.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmSculpture.designer.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmSculpture.designer.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmSculpture.resx = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmSculpture.resx
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmWork.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmWork.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmWork.designer.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmWork.designer.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\frmWork.resx = ..\..\..\GitHub\ClassTutorial2\Version 1 C\frmWork.resx
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\InputBox.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\InputBox.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\InputBox.designer.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\InputBox.designer.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\InputBox.resx = ..\..\..\GitHub\ClassTutorial2\Version 1 C\InputBox.resx
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\Program.cs = ..\..\..\GitHub\ClassTutorial2\Version 1 C\Program.cs
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\Version 1 C.csproj = ..\..\..\GitHub\ClassTutorial2\Version 1 C\Version 1 C.csproj
+		..\..\..\GitHub\ClassTutorial2\Version 1 C\Version 1 C.csproj.user = ..\..\..\GitHub\ClassTutorial2\Version 1 C\Version 1 C.csproj.user
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrumentShopUniversal", "InstrumentShopUniversal\InstrumentShopUniversal.csproj", "{9F26885E-8299-433E-A980-65C3CB2D1982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Debug|ARM.Build.0 = Debug|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Debug|x64.Build.0 = Debug|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Debug|x86.Build.0 = Debug|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Release|ARM.ActiveCfg = Release|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Release|ARM.Build.0 = Release|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Release|x64.ActiveCfg = Release|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Release|x64.Build.0 = Release|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Release|x86.ActiveCfg = Release|Any CPU
+		{2082D9E6-F5C3-4449-9DF1-250003367101}.Release|x86.Build.0 = Release|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Debug|ARM.Build.0 = Debug|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Debug|x64.Build.0 = Debug|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Debug|x86.Build.0 = Debug|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Release|ARM.ActiveCfg = Release|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Release|ARM.Build.0 = Release|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Release|x64.ActiveCfg = Release|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Release|x64.Build.0 = Release|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Release|x86.ActiveCfg = Release|Any CPU
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0}.Release|x86.Build.0 = Release|Any CPU
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Debug|ARM.ActiveCfg = Debug|ARM
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Debug|ARM.Build.0 = Debug|ARM
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Debug|ARM.Deploy.0 = Debug|ARM
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Debug|x64.ActiveCfg = Debug|x64
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Debug|x64.Build.0 = Debug|x64
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Debug|x64.Deploy.0 = Debug|x64
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Debug|x86.ActiveCfg = Debug|x86
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Debug|x86.Build.0 = Debug|x86
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Debug|x86.Deploy.0 = Debug|x86
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Release|Any CPU.ActiveCfg = Release|x86
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Release|ARM.ActiveCfg = Release|ARM
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Release|ARM.Build.0 = Release|ARM
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Release|ARM.Deploy.0 = Release|ARM
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Release|x64.ActiveCfg = Release|x64
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Release|x64.Build.0 = Release|x64
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Release|x64.Deploy.0 = Release|x64
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Release|x86.ActiveCfg = Release|x86
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Release|x86.Build.0 = Release|x86
+		{9F26885E-8299-433E-A980-65C3CB2D1982}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2082D9E6-F5C3-4449-9DF1-250003367101} = {6EE47315-07EF-424F-8F95-E3244D2A2913}
+		{FFF1241E-F882-4780-80F7-C83377FE7AE0} = {6EE47315-07EF-424F-8F95-E3244D2A2913}
+		{9F26885E-8299-433E-A980-65C3CB2D1982} = {6EE47315-07EF-424F-8F95-E3244D2A2913}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D753CD39-FAFE-4C8B-B172-6B730A3E7413}
+	EndGlobalSection
+EndGlobal

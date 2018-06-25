@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="InstrumentShopUniversal.pgOrder"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:InstrumentShopUniversal"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Text="Instrument Shop" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,22,0,0" FontSize="48"/>
+        <TextBlock x:Name="txbInstrumentName" HorizontalAlignment="Left" Margin="26,113,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"/>
+        <TextBlock x:Name="txbQuantity" HorizontalAlignment="Left" Margin="26,206,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"/>
+        <TextBlock x:Name="txbPrice" HorizontalAlignment="Left" Margin="26,252,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox x:Name="txtCustomerName" HorizontalAlignment="Left" Margin="194,399,0,0" Text="TextBox" VerticalAlignment="Top" FontSize="24" Width="212" MaxLength="45"/>
+        <TextBox x:Name="txtCustomerCity" HorizontalAlignment="Left" Margin="194,475,0,0" Text="TextBox" VerticalAlignment="Top" FontSize="24" Width="212" MaxLength="45"/>
+        <TextBlock x:Name="txbType" HorizontalAlignment="Left" Margin="26,157,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"/>
+        <TextBlock x:Name="txbCustCity" HorizontalAlignment="Left" Margin="25,484,0,0" Text="Customer City:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"/>
+        <TextBlock x:Name="txbCustName" HorizontalAlignment="Left" Margin="25,409,0,0" Text="Customer Name:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"/>
+        <Button x:Name="btnConfirmOrder" Content="Confirm Order" HorizontalAlignment="Center" Margin="0,587,0,0" VerticalAlignment="Top" Height="86" Width="352" FontSize="36" Click="btnConfirmOrder_Click"/>
+        <TextBox x:Name="txtOrderQuantity" HorizontalAlignment="Left" Margin="194,331,0,0" Text="TextBox" VerticalAlignment="Top" FontSize="24" Width="212" InputScope="Number" MaxLength="3"/>
+        <TextBlock x:Name="txbQuantity1" HorizontalAlignment="Left" Margin="25,341,0,0" Text="Order Quantity" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"/>
+        <TextBlock x:Name="txbMessage" HorizontalAlignment="Left" Margin="24,699,0,0" Text="Message:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+    </Grid>
+</Page>
